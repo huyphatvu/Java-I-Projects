@@ -6,6 +6,7 @@
 #### Summary
 A command line game that let the player become an hero and fight with other monster in the haunted castle.
 
+Run the "AdventureGame" to start the game.
 There are different types of hero to choose: Babarian, Crusader, Witch, and Wizard.
 
 The player will started at the Guest Bedroom. When moving to another room, there will be either a monster or a golden chest at that room
